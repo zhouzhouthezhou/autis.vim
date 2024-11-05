@@ -1,4 +1,4 @@
-# autis.nvim
+# autis.vim
 
 My fork of kickstart
 
